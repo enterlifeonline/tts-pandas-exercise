@@ -66,7 +66,7 @@ Suggestions and collaborations are more than welcome.
 
 ## Video Solutions
 
-** Pandas Learning By Doing**
 [![Pandas Learning By Doing](https://img.youtube.com/vi/pu3IpU937xs/0.jpg)](https://www.youtube.com/watch?v=pu3IpU937xs)
+
 [Watch Video](https://youtu.be/pu3IpU937xs)
 
