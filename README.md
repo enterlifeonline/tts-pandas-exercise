@@ -18,9 +18,9 @@ Suggestions and collaborations are more than welcome.
 ## Lessons
 
 ### [Getting and Knowing](https://github.com/guipsamora/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data)  
-[Chipotle](https://github.com/guipsamora/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/Chipotle)  
-[Occupation](https://github.com/guipsamora/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/Occupation)  
-[World Food Facts](https://github.com/guipsamora/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/World%20Food%20Facts)
+- [Chipotle](https://github.com/guipsamora/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/Chipotle)  
+- [Occupation](https://github.com/guipsamora/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/Occupation)  
+- [World Food Facts](https://github.com/guipsamora/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/World%20Food%20Facts)
 
 ### [Filtering and Sorting](https://github.com/guipsamora/pandas_exercises/tree/master/02_Filtering_%26_Sorting)
 - [Chipotle](https://github.com/guipsamora/pandas_exercises/tree/master/02_Filtering_%26_Sorting/Chipotle)  
@@ -69,4 +69,3 @@ Suggestions and collaborations are more than welcome.
 [Watch Video](https://youtu.be/pu3IpU937xs)
 
 [![Pandas Learning By Doing](https://img.youtube.com/vi/pu3IpU937xs/0.jpg)](https://www.youtube.com/watch?v=pu3IpU937xs)
-
